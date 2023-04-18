@@ -1,0 +1,44 @@
+button {
+  color: purple;
+}
+p {
+  /* font-size: 50px; */
+  color: red;
+}
+
+h1 {
+    color: blue;
+}
+
+img {
+    height: 300px;
+}
+
+input {
+    border-radius: 50%;
+}
+/* button:first-of-type{
+    color: red;
+} */
+.firstButton{
+    color: pink;
+}
+
+.thirdButton{
+    height: 30px;
+}
+.box{
+    border: 2px red solid;
+    margin: 20px 20px 200px 10px;
+    padding: 200px 10px 20px 10px;
+}
+.center{
+    height: 200px;
+    width: 200px;
+    border: 1px solid red;
+    margin: auto;
+    text-align: center;
+}
+.pText{
+    margin: 41%;
+}
